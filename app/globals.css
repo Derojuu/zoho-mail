@@ -1,0 +1,67 @@
+@import "tailwindcss";
+@import "../styles/zoho-original.css";
+
+/* Interactive hover & state rules restored from SingleFile stripped dynamic states */
+@media only screen and (min-width: 768px) {
+  .menu > li.dropdown:hover > .dropdown-menu,
+  .menu > li.dropdown:focus-within > .dropdown-menu,
+  .menu > li.dropdown.is-open > .dropdown-menu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+
+  .dropdown-menu li.sub-level:hover > .sub-dropdown,
+  .dropdown-menu li.sub-level:focus-within > .sub-dropdown,
+  .dropdown-menu li.sub-level.is-open > .sub-dropdown {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .dropdown-menu li.sub-level:hover > .sub-dropdown > li,
+  .dropdown-menu li.sub-level:focus-within > .sub-dropdown > li,
+  .dropdown-menu li.sub-level.is-open > .sub-dropdown > li {
+    opacity: 1;
+  }
+
+  .menu li ul.twoCol-sec li.zwc-zmenu-submenu-list li.sub-level:hover > .submenu-dd,
+  .menu li ul.twoCol-sec li.zwc-zmenu-submenu-list li.sub-level:focus-within > .submenu-dd {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+.zgh-localization.is-open .zgh-localBox,
+.zgh-localization:hover .zgh-localBox {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+  z-index: 1000;
+}
+
+.zgh-userPanel.is-open .zgh-userLink,
+.zgh-userPanel:hover .zgh-userLink {
+  opacity: 1;
+  visibility: visible;
+  z-index: 1000;
+}
+
+.zgh-search.is-open .zgh-search-container {
+  opacity: 1;
+  visibility: visible;
+  z-index: 1000;
+}
+
+.zgh-search.is-open .zgh-search-container .zgh-search-overlay {
+  opacity: 1;
+  visibility: visible;
+}
+
+.zwc-problem-card-wrap.is-flipped .zwc-problem-card-back {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.zwc-trusted-logos.ztrans-logos-marquee.is-paused .zwc-trusted-logos-track {
+  animation-play-state: paused !important;
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Mesh" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 628 347.86">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient-4);
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-5 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-6 {
+        fill: #deeeff;
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="-1.55" y="-.29" width="632.91" height="348.43"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="1366.64" cy="250.61" fx="1263.92" fy="272.81" r="196.48" gradientTransform="translate(-1456.86 910.15) rotate(-40.43) scale(1.19 1.92) skewX(-9.6)" gradientUnits="userSpaceOnUse">
+      <stop offset=".25" stop-color="#69acf7" stop-opacity=".58"/>
+      <stop offset=".28" stop-color="#73b2f7" stop-opacity=".62"/>
+      <stop offset=".43" stop-color="#99c7fa" stop-opacity=".75"/>
+      <stop offset=".57" stop-color="#b7d8fc" stop-opacity=".86"/>
+      <stop offset=".69" stop-color="#cce4fd" stop-opacity=".94"/>
+      <stop offset=".8" stop-color="#d9ebfe" stop-opacity=".98"/>
+      <stop offset=".88" stop-color="#deeeff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="1655.2" cy="449.26" fx="1564.85" fy="468.79" r="172.81" gradientTransform="translate(1877.63 2147.39) rotate(-149.73) scale(1.32 1.92) skewX(-8.97)" gradientUnits="userSpaceOnUse">
+      <stop offset=".25" stop-color="#69acf7" stop-opacity=".58"/>
+      <stop offset=".39" stop-color="#90c2f9" stop-opacity=".38"/>
+      <stop offset=".53" stop-color="#b2d5fc" stop-opacity=".22"/>
+      <stop offset=".66" stop-color="#cae2fd" stop-opacity=".1"/>
+      <stop offset=".77" stop-color="#d8ebfe" stop-opacity=".03"/>
+      <stop offset=".85" stop-color="#deeeff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clippath-1">
+      <rect class="cls-1" x="-325.95" y="-681.32" width="1281.72" height="348.43"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-3" cx="695.44" cy="-149.74" fx="556.5" fy="-149.74" r="196.48" gradientTransform="translate(2005.15 -941.96) rotate(-180) scale(1.86 2.86)" gradientUnits="userSpaceOnUse">
+      <stop offset=".19" stop-color="#553eff"/>
+      <stop offset=".24" stop-color="#513efd" stop-opacity=".96"/>
+      <stop offset=".34" stop-color="#483ffa" stop-opacity=".85"/>
+      <stop offset=".47" stop-color="#3940f4" stop-opacity=".67"/>
+      <stop offset=".61" stop-color="#2443ec" stop-opacity=".43"/>
+      <stop offset=".78" stop-color="#0a45e2" stop-opacity=".12"/>
+      <stop offset=".84" stop-color="#0047df" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="1405.27" cy="-39.41" fx="1209.49" fy="-22.81" r="196.48" gradientTransform="translate(-2827.58 -204) scale(1.86 2.86)" gradientUnits="userSpaceOnUse">
+      <stop offset=".19" stop-color="#3bb7f4"/>
+      <stop offset=".25" stop-color="#38b2f3" stop-opacity=".96"/>
+      <stop offset=".35" stop-color="#31a5f0" stop-opacity=".84"/>
+      <stop offset=".47" stop-color="#2690ec" stop-opacity=".66"/>
+      <stop offset=".63" stop-color="#1773e7" stop-opacity=".4"/>
+      <stop offset=".8" stop-color="#044fe0" stop-opacity=".08"/>
+      <stop offset=".84" stop-color="#0047df" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g class="cls-8">
+    <rect class="cls-6" x="-1.88" y="-2.64" width="634.17" height="353.56"/>
+    <path class="cls-5" d="M277.62,128.29c123.94,180.84,135.87,402.88,26.64,495.96-109.23,93.07-298.25,21.93-422.19-158.91C-241.87,284.51-253.8,62.46-144.57-30.61-35.34-123.69,153.68-52.54,277.62,128.29Z"/>
+    <path class="cls-4" d="M266.75,166.76C397.22-9.58,614.59-87.39,752.26-7.04c137.68,80.35,143.53,288.44,13.06,464.78-130.46,176.34-347.83,254.15-485.51,173.79-137.68-80.35-143.53-288.44-13.06-464.78Z"/>
+  </g>
+  <g class="cls-7">
+    <ellipse class="cls-3" cx="723.2" cy="-587.94" rx="404.69" ry="589.77"/>
+    <ellipse class="cls-2" cx="-227.76" cy="-242.34" rx="404.69" ry="589.77" transform="translate(16.38 -16.51) rotate(-4.01)"/>
+  </g>
+</svg>
